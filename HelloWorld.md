@@ -1,3 +1,5 @@
 ## This is a markdown file
 
-Cours project: question 3
+Course project: question 3
+
+[found and corrected one typo]
